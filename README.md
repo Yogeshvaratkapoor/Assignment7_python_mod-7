@@ -1,0 +1,2 @@
+# Assignment7_python_mod-7
+eXCEPTION HANDLEING AND FILE HANDELING
